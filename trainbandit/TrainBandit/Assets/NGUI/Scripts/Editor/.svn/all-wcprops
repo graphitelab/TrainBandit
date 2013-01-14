@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor
+END
+UIFilledSpriteInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIFilledSpriteInspector.cs
+END
+UITiledSpriteInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UITiledSpriteInspector.cs
+END
+UIAtlasInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIAtlasInspector.cs.meta
+END
+UIDrawCallInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIDrawCallInspector.cs
+END
+UIPanelTool.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIPanelTool.cs.meta
+END
+NGUIEditorTools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/NGUIEditorTools.cs
+END
+UIPanelTool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIPanelTool.cs
+END
+NGUIJson.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/NGUIJson.cs
+END
+BMFontReader.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/BMFontReader.cs.meta
+END
+UILabelInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UILabelInspector.cs
+END
+UIWidgetInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIWidgetInspector.cs
+END
+NGUISettings.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/NGUISettings.cs.meta
+END
+UICreateWidgetWizard.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UICreateWidgetWizard.cs.meta
+END
+NGUIMenu.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/NGUIMenu.cs.meta
+END
+NGUIJson.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/NGUIJson.cs.meta
+END
+UIAtlasMaker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIAtlasMaker.cs
+END
+NGUISettings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/NGUISettings.cs
+END
+UIPanelInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIPanelInspector.cs
+END
+UIFontMaker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIFontMaker.cs
+END
+NGUITransformInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/NGUITransformInspector.cs
+END
+NGUIMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/NGUIMenu.cs
+END
+UILabelInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UILabelInspector.cs.meta
+END
+NGUISelectionTools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/NGUISelectionTools.cs
+END
+UISliderInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UISliderInspector.cs.meta
+END
+UIWidgetInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIWidgetInspector.cs.meta
+END
+UITiledSpriteInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UITiledSpriteInspector.cs.meta
+END
+UISlicedSpriteInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UISlicedSpriteInspector.cs.meta
+END
+UISliderInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UISliderInspector.cs
+END
+UIPanelInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIPanelInspector.cs.meta
+END
+UIFontMaker.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIFontMaker.cs.meta
+END
+UISlicedSpriteInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UISlicedSpriteInspector.cs
+END
+UICreateNewUIWizard.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UICreateNewUIWizard.cs.meta
+END
+UISpriteInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UISpriteInspector.cs.meta
+END
+UISpriteAnimationInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UISpriteAnimationInspector.cs.meta
+END
+UIFontInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIFontInspector.cs.meta
+END
+UIPopupListInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIPopupListInspector.cs
+END
+UICameraTool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UICameraTool.cs
+END
+UITextureInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UITextureInspector.cs
+END
+UICreateWidgetWizard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UICreateWidgetWizard.cs
+END
+ComponentSelector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/ComponentSelector.cs.meta
+END
+UIAtlasInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIAtlasInspector.cs
+END
+UISpriteInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UISpriteInspector.cs
+END
+UISpriteAnimationInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UISpriteAnimationInspector.cs
+END
+UIFontInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIFontInspector.cs
+END
+SpriteSelector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/SpriteSelector.cs.meta
+END
+ComponentSelector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/ComponentSelector.cs
+END
+UIDrawCallInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIDrawCallInspector.cs.meta
+END
+SpriteSelector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/SpriteSelector.cs
+END
+UIScrollBarInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIScrollBarInspector.cs
+END
+UIPopupListInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIPopupListInspector.cs.meta
+END
+UICameraTool.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UICameraTool.cs.meta
+END
+NGUITransformInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/NGUITransformInspector.cs.meta
+END
+NGUISelectionTools.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/NGUISelectionTools.cs.meta
+END
+NGUIEditorTools.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/NGUIEditorTools.cs.meta
+END
+UITexturePacker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UITexturePacker.cs
+END
+UIImageButtonInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIImageButtonInspector.cs.meta
+END
+UICreateNewUIWizard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UICreateNewUIWizard.cs
+END
+UIScrollBarInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIScrollBarInspector.cs.meta
+END
+UIFilledSpriteInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIFilledSpriteInspector.cs.meta
+END
+UIImageButtonInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIImageButtonInspector.cs
+END
+UIAtlasMaker.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UIAtlasMaker.cs.meta
+END
+BMFontReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/BMFontReader.cs
+END
+UITexturePacker.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UITexturePacker.cs.meta
+END
+UITextureInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Editor/UITextureInspector.cs.meta
+END

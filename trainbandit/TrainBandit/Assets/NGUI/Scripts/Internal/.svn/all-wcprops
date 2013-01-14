@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal
+END
+ActiveAnimation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/ActiveAnimation.cs
+END
+ByteReader.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/ByteReader.cs.meta
+END
+NGUIMath.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/NGUIMath.cs
+END
+Localization.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/Localization.cs.meta
+END
+UIGeometry.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/UIGeometry.cs.meta
+END
+UIWidget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/UIWidget.cs
+END
+NGUITools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/NGUITools.cs
+END
+AnimationOrTween.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/AnimationOrTween.cs
+END
+UIEventListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/UIEventListener.cs
+END
+BMFont.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/BMFont.cs
+END
+BMGlyph.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/BMGlyph.cs.meta
+END
+UIGeometry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/UIGeometry.cs
+END
+NGUIMath.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/NGUIMath.cs.meta
+END
+UpdateManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/UpdateManager.cs.meta
+END
+BetterList.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/BetterList.cs.meta
+END
+UINode.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/UINode.cs.meta
+END
+IgnoreTimeScale.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/IgnoreTimeScale.cs
+END
+UIDrawCall.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/UIDrawCall.cs.meta
+END
+UpdateManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/UpdateManager.cs
+END
+BetterList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/BetterList.cs
+END
+SpringPanel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/SpringPanel.cs
+END
+UINode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/UINode.cs
+END
+BMSymbol.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/BMSymbol.cs
+END
+ByteReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/ByteReader.cs
+END
+UIDrawCall.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/UIDrawCall.cs
+END
+Localization.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/Localization.cs
+END
+NGUIDebug.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/NGUIDebug.cs.meta
+END
+IgnoreTimeScale.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/IgnoreTimeScale.cs.meta
+END
+ActiveAnimation.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/ActiveAnimation.cs.meta
+END
+BMGlyph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/BMGlyph.cs
+END
+UIWidget.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/UIWidget.cs.meta
+END
+SpringPanel.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/SpringPanel.cs.meta
+END
+NGUITools.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/NGUITools.cs.meta
+END
+AnimationOrTween.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/AnimationOrTween.cs.meta
+END
+NGUIDebug.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/NGUIDebug.cs
+END
+BMSymbol.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/BMSymbol.cs.meta
+END
+UIEventListener.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/UIEventListener.cs.meta
+END
+BMFont.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/Internal/BMFont.cs.meta
+END

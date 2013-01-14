@@ -1,0 +1,18 @@
+K 10
+svn:ignore
+V 334
+Assembly-CSharp-Editor-vs.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-Editor.pidb
+Assembly-CSharp-vs.csproj
+Assembly-CSharp.csproj
+Assembly-CSharp.pidb
+Assembly-UnityScript-firstpass-vs.unityproj
+Assembly-UnityScript-firstpass.pidb
+Assembly-UnityScript-firstpass.unityproj
+Library
+Temp
+TrainBandit-csharp.sln
+TrainBandit.sln
+
+END

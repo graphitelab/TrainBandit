@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/trainbandit/!svn/ver/16/trunk/TrainBandit/Assets/Scripts
+END
+SpinningObstacleScript.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/trainbandit/!svn/ver/16/trunk/TrainBandit/Assets/Scripts/SpinningObstacleScript.cs.meta
+END
+SwipeDirection.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/SwipeDirection.cs.meta
+END
+LaunchProjectile.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/trainbandit/!svn/ver/31/trunk/TrainBandit/Assets/Scripts/LaunchProjectile.cs.meta
+END
+Player.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Player.cs.meta
+END
+TiltReader.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/TiltReader.cs.meta
+END
+Events.meta
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Events.meta
+END
+Singleton.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Singleton.cs.meta
+END
+SteamPressure.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/trainbandit/!svn/ver/8/trunk/TrainBandit/Assets/Scripts/SteamPressure.cs.meta
+END
+SpinningObstacleScript.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/trainbandit/!svn/ver/16/trunk/TrainBandit/Assets/Scripts/SpinningObstacleScript.cs
+END
+SceneChange.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/trainbandit/!svn/ver/28/trunk/TrainBandit/Assets/Scripts/SceneChange.cs.meta
+END
+WinCondition.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/trainbandit/!svn/ver/29/trunk/TrainBandit/Assets/Scripts/WinCondition.cs.meta
+END
+LaunchProjectile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/trainbandit/!svn/ver/31/trunk/TrainBandit/Assets/Scripts/LaunchProjectile.cs
+END
+Obstacle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/trainbandit/!svn/ver/16/trunk/TrainBandit/Assets/Scripts/Obstacle.cs
+END
+TiltReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/TiltReader.cs
+END
+SwipeReader.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/SwipeReader.cs.meta
+END
+VehicleMotor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/trainbandit/!svn/ver/28/trunk/TrainBandit/Assets/Scripts/VehicleMotor.cs
+END
+Paths.meta
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Paths.meta
+END
+SceneChange.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/trainbandit/!svn/ver/28/trunk/TrainBandit/Assets/Scripts/SceneChange.cs
+END
+TrainDirectionPS.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/trainbandit/!svn/ver/11/trunk/TrainBandit/Assets/Scripts/TrainDirectionPS.cs.meta
+END
+PathPoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/PathPoint.cs
+END
+UIManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/trainbandit/!svn/ver/30/trunk/TrainBandit/Assets/Scripts/UIManager.cs
+END
+TrackPiece.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/trainbandit/!svn/ver/3/trunk/TrainBandit/Assets/Scripts/TrackPiece.cs
+END
+Constants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/trainbandit/!svn/ver/5/trunk/TrainBandit/Assets/Scripts/Constants.cs
+END
+HUDFPS.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/HUDFPS.cs.meta
+END
+Obstacle.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Obstacle.cs.meta
+END
+TrainDirectionPS.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/trainbandit/!svn/ver/13/trunk/TrainBandit/Assets/Scripts/TrainDirectionPS.cs
+END
+VehicleAIController.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/VehicleAIController.cs.meta
+END
+RockExplosion.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/trainbandit/!svn/ver/19/trunk/TrainBandit/Assets/Scripts/RockExplosion.cs.meta
+END
+VehicleMotor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/VehicleMotor.cs.meta
+END
+VehicleInputController.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/VehicleInputController.cs.meta
+END
+SwipeDirection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/SwipeDirection.cs
+END
+HUDFPS.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/HUDFPS.cs
+END
+TouchReader.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/trainbandit/!svn/ver/5/trunk/TrainBandit/Assets/Scripts/TouchReader.cs.meta
+END
+PathPoint.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/PathPoint.cs.meta
+END
+Player.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/trainbandit/!svn/ver/29/trunk/TrainBandit/Assets/Scripts/Player.cs
+END
+VehicleAIController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/VehicleAIController.cs
+END
+UIManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/trainbandit/!svn/ver/26/trunk/TrainBandit/Assets/Scripts/UIManager.cs.meta
+END
+DevSwipeReader.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/DevSwipeReader.cs.meta
+END
+TrackPiece.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/TrackPiece.cs.meta
+END
+RockExplosion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/trainbandit/!svn/ver/25/trunk/TrainBandit/Assets/Scripts/RockExplosion.cs
+END
+Constants.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Constants.cs.meta
+END
+SteamPressure.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/trainbandit/!svn/ver/28/trunk/TrainBandit/Assets/Scripts/SteamPressure.cs
+END
+Singleton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Singleton.cs
+END
+VehicleInputController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/VehicleInputController.cs
+END
+WinCondition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/trainbandit/!svn/ver/29/trunk/TrainBandit/Assets/Scripts/WinCondition.cs
+END
+TouchReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/trainbandit/!svn/ver/23/trunk/TrainBandit/Assets/Scripts/TouchReader.cs
+END
+DevSwipeReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/trainbandit/!svn/ver/26/trunk/TrainBandit/Assets/Scripts/DevSwipeReader.cs
+END
+SwipeReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/SwipeReader.cs
+END

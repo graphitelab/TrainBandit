@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI
+END
+UILabel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UILabel.cs
+END
+UITooltip.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UITooltip.cs.meta
+END
+UIPanel.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIPanel.cs.meta
+END
+UIInput.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIInput.cs.meta
+END
+UIFilledSprite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIFilledSprite.cs
+END
+UICamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UICamera.cs
+END
+UITiledSprite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UITiledSprite.cs
+END
+UISlicedSprite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UISlicedSprite.cs
+END
+UIPanel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIPanel.cs
+END
+UIAnchor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIAnchor.cs.meta
+END
+UIInput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIInput.cs
+END
+UITexture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UITexture.cs
+END
+UILocalize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UILocalize.cs
+END
+UIOrthoCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIOrthoCamera.cs
+END
+UIAtlas.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIAtlas.cs
+END
+UIViewport.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIViewport.cs.meta
+END
+UISpriteAnimation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UISpriteAnimation.cs
+END
+UISprite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UISprite.cs
+END
+UIFont.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIFont.cs
+END
+UIRoot.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIRoot.cs.meta
+END
+UIFilledSprite.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIFilledSprite.cs.meta
+END
+UIStretch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIStretch.cs
+END
+UICamera.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UICamera.cs.meta
+END
+UITiledSprite.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UITiledSprite.cs.meta
+END
+UISlicedSprite.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UISlicedSprite.cs.meta
+END
+UIViewport.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIViewport.cs
+END
+UITextList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UITextList.cs
+END
+UIInputSaved.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIInputSaved.cs
+END
+UIRoot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIRoot.cs
+END
+UITexture.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UITexture.cs.meta
+END
+UILocalize.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UILocalize.cs.meta
+END
+UIOrthoCamera.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIOrthoCamera.cs.meta
+END
+UIAtlas.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIAtlas.cs.meta
+END
+UITooltip.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UITooltip.cs
+END
+UISpriteAnimation.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UISpriteAnimation.cs.meta
+END
+UISprite.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UISprite.cs.meta
+END
+UIFont.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIFont.cs.meta
+END
+UIStretch.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIStretch.cs.meta
+END
+UILabel.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UILabel.cs.meta
+END
+UITextList.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UITextList.cs.meta
+END
+UIInputSaved.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIInputSaved.cs.meta
+END
+UIAnchor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/NGUI/Scripts/UI/UIAnchor.cs
+END

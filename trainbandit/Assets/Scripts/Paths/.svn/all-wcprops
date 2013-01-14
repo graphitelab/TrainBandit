@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Paths
+END
+AtomicPath.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Paths/AtomicPath.cs.meta
+END
+CompositePath.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Paths/CompositePath.cs
+END
+CurvePath.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Paths/CurvePath.cs
+END
+TrackPath.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Paths/TrackPath.cs
+END
+StraightPath.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Paths/StraightPath.cs
+END
+CompositePath.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Paths/CompositePath.cs.meta
+END
+CurvePath.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Paths/CurvePath.cs.meta
+END
+TrackPath.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Paths/TrackPath.cs.meta
+END
+StraightPath.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Paths/StraightPath.cs.meta
+END
+AtomicPath.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/Assets/Scripts/Paths/AtomicPath.cs
+END

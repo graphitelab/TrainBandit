@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LaunchProjectile.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TouchReader.cs" Line="46" Column="23" />
+      <File FileName="Assets\Scripts\UIManager.cs" Line="118" Column="8" />
+      <File FileName="Assets\Scripts\VehicleMotor.cs" Line="77" Column="3" />
+      <File FileName="Assets\Scripts\Events\GameEventType.cs" Line="14" Column="15" />
+      <File FileName="Assets\Scripts\Player.cs" Line="282" Column="23" />
+      <File FileName="Assets\Scripts\SceneChange.cs" Line="16" Column="3" />
+      <File FileName="Assets\Scripts\TrainDirectionPS.cs" Line="37" Column="56" />
+      <File FileName="Assets\Scripts\Obstacle.cs" Line="5" Column="2" />
+      <File FileName="Assets\Scripts\WinCondition.cs" Line="4" Column="44" />
+      <File FileName="Assets\Standard Assets\Scripts\Camera Scripts\SmoothFollow.js" Line="56" Column="1" />
+      <File FileName="Assets\Scripts\LaunchProjectile.cs" Line="26" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

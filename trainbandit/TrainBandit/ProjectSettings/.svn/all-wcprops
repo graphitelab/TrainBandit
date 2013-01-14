@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/trainbandit/!svn/ver/16/trunk/TrainBandit/ProjectSettings
+END
+NavMeshLayers.asset
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/ProjectSettings/NavMeshLayers.asset
+END
+DynamicsManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/ProjectSettings/DynamicsManager.asset
+END
+NetworkManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/ProjectSettings/NetworkManager.asset
+END
+TagManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/trainbandit/!svn/ver/16/trunk/TrainBandit/ProjectSettings/TagManager.asset
+END
+EditorBuildSettings.asset
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/trainbandit/!svn/ver/28/trunk/TrainBandit/ProjectSettings/EditorBuildSettings.asset
+END
+EditorSettings.asset
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/ProjectSettings/EditorSettings.asset
+END
+ProjectSettings.asset
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/trainbandit/!svn/ver/31/trunk/TrainBandit/ProjectSettings/ProjectSettings.asset
+END
+QualitySettings.asset
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/trainbandit/!svn/ver/18/trunk/TrainBandit/ProjectSettings/QualitySettings.asset
+END
+TimeManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/ProjectSettings/TimeManager.asset
+END
+InputManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/trainbandit/!svn/ver/26/trunk/TrainBandit/ProjectSettings/InputManager.asset
+END
+AudioManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/trainbandit/!svn/ver/2/trunk/TrainBandit/ProjectSettings/AudioManager.asset
+END
